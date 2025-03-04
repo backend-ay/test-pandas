@@ -3,7 +3,7 @@
     'name': 'Check Pandas Module',
     'version': '1.0',
     'depends': ['base'],
-    'author': 'Your Name',
+    'author': 'HD',
     'category': 'Tools',
     'description': """
     This module checks whether the 'pandas' Python package is installed before allowing installation.
