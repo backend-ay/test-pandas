@@ -9,5 +9,5 @@
     This module checks whether the 'pandas' Python package is installed before allowing installation.
     """,
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
 }
